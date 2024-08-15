@@ -10,7 +10,7 @@ I'm a software engineer with a background from the British Columbia Institute of
 * 🖥️  See my portfolio at [ErichasaTan.github.io](http://erichasatan.github.io./)
 * ✉️  You can contact me at [erictansde@gmail.com](mailto:erictansde@gmail.com)
 * 🚀  I'm currently working on [Instagram Web Scraper](http://github.com/ErichasaTan/web-scraper)
-* 🧠  I'm learning AWS Cloud Development
+* 🧠  I'm learning AWS Cloud Development & Machine Learning
 * 🤝  I'm open to collaborating on AI and Machine learning projects
 * ⚡  Fun Fact: My first 'Hello World' program was written in Java. It was love at first line of code!
 
