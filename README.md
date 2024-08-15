@@ -18,8 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erichasatan&show_icons=true&locale=en&layout=compact" alt="erichasatan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erichasatan&show_icons=true&locale=en" alt="erichasatan" /></p>
-
 
 <!--
 **ErichasaTan/ErichasaTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
