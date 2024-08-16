@@ -1,4 +1,4 @@
-Hi 👋 My name is Eric
+Hello World 👋 My name is Eric
 =====================
 
 Software Engineer && Full-Stack Developer
