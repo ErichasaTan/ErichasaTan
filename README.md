@@ -1,7 +1,7 @@
 Hi 👋 My name is Eric
 =====================
 
-Software Engineer | Full-Stack Developer
+Software Engineer && Full-Stack Developer
 -----------------
 
 I'm a software engineer with a background from the British Columbia Institute of Technology. My work spans professional roles, internships, and personal projects, all contributing to a deep understanding of building robust, scalable systems. Currently, I'm diving deeper into the realms of machine learning, distributed systems, and cloud computing, always eager to learn and apply new technologies.
@@ -52,7 +52,7 @@ I'm a software engineer with a background from the British Columbia Institute of
 
 
 
-### DevOps  
+### Other Tools  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
